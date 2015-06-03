@@ -14,7 +14,7 @@
 # limitations under the License.
 #
 
-ifeq ($(TARGET_DEVICE),armani)
+ifeq ($(TARGET_DEVICE),Xolo_Q1100)
 
 LOCAL_PATH := $(call my-dir)
 
