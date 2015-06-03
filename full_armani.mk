@@ -22,8 +22,8 @@ $(call inherit-product, device/xiaomi/armani/device.mk)
 $(call inherit-product-if-exists, vendor/xiaomi/armani/armani-vendor.mk)
 
 # Device identifier. This must come after all inclusions.
-PRODUCT_DEVICE := armani
-PRODUCT_NAME := full_armani
-PRODUCT_BRAND := Xiaomi
-PRODUCT_MODEL := HM 1S
-PRODUCT_MANUFACTURER := Xiaomi
+PRODUCT_DEVICE := Xolo_Q1100
+PRODUCT_NAME := Q1100
+PRODUCT_BRAND := Xolo
+PRODUCT_MODEL := Q1100
+PRODUCT_MANUFACTURER := Xolo
